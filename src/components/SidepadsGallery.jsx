@@ -6,7 +6,6 @@ import logo from '../assets/logo_AM_only.png';
 
 // Import all sidepads images
 import img1 from '../assets/sidepads/1.jpg';
-import img2 from '../assets/sidepads/2.jpg';
 import img3 from '../assets/sidepads/3.jpg';
 import img4 from '../assets/sidepads/4.jpg';
 import img5 from '../assets/sidepads/5.jpg';
@@ -31,7 +30,7 @@ import img23 from '../assets/sidepads/23.jpg';
 
 
 const sidepadsImages = [
-  img1, img2, img3, img4, img5, img6,
+  img1, img3, img4, img5, img6,
   img7, img8, img9, img10, img11, img12,
   img13, img14, img15, img16, img17, img18,
   img19, img20, img21, img22, img23
