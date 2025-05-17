@@ -6,7 +6,7 @@ import logo from '../assets/logo_AM_only.png';
 // Import all TV images
 import img1 from '../assets/tv/1.jpg';
 import img2 from '../assets/tv/2.jpg';
-import img4 from '../assets/tv/4 .jpg';
+import img4 from '../assets/tv/4.jpg';
 import img5 from '../assets/tv/5.jpg';
 import img6 from '../assets/tv/6.jpg';
 import img7 from '../assets/tv/7.jpg';
