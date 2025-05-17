@@ -4,7 +4,6 @@ import { Helmet } from 'react-helmet';
 import logo from '../assets/logo_AM_only.png';
 
 // Import all 44 seat images
-import img1 from '../assets/seat/1.jpg';
 import img2 from '../assets/seat/2.jpg';
 import img3 from '../assets/seat/3.jpg';
 import img4 from '../assets/seat/4.jpg';
@@ -48,7 +47,7 @@ import img43 from '../assets/seat/43.jpg';
 import img44 from '../assets/seat/44.jpg';
 
 const seatImages = [
-  img1, img2, img3, img4, img5,
+  img2, img3, img4, img5,
   img7, img8, img9, img10,
   img11, img12, img13, img14, img15,
   img16, img17, img18, img19, img20,
